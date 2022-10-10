@@ -1,4 +1,4 @@
 #Salle10
 <p align="center">
-<img src="../logoSNDS.jpg" width="100px"/>
+<img src="../win.jpg" width="100px"/>
 </p>
