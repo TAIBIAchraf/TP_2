@@ -1,13 +1,10 @@
 
 <html>
-   <head>
-      <title>HTML Image as link</title>
-   </head>
    <body>
-      The following image works as a link:<br>
-      <a href="https://www.qries.com/">
-         <img alt="Qries" src=""https://cdn.memes.com/up/56483341642966477/i/1643866544523.png"
-         width=150" height="70">
+      <br>
+      <a href="https://github.com/TAIBIAchraf/TP_2/blob/main/Index.md">
+         <img alt="Qries" src="https://cdn.memes.com/up/56483341642966477/i/1643866544523.png"
+         width=600" height="600">
       </a>
    </body>
 </html>
