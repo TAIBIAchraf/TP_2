@@ -1,6 +1,6 @@
-#Salle10
+# Salle10
 <p align="center">
-<img src="win.jpg" width="100px"/>
+<img src="win.jpg" width="500px"/>
 </p>
 
 
